@@ -2,8 +2,6 @@
     margin: 0px;
     padding: 0px;
     font-family: Epilogue;
-
-
 }
 
 .container {
@@ -249,7 +247,6 @@ p {
     /* justify-content: space-evenly; */
     position: absolute;
     left: 146px;
-    display: none;
 }
 
 /* .mob_items {
